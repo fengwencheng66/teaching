@@ -11,15 +11,9 @@
    :maxdepth: 2
    :caption: Contents
 
-  
-
-
-
-#   macroeconomics/index
-------------------------
-
  `语义陷阱：经济学家的话术 <02_语义陷阱：经济学家的话术.html>`_
-growth/index
+ 
+ `经济增长<growth/index.html>`_
 
 #   various/index
 
