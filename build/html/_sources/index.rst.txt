@@ -17,15 +17,15 @@
 
 #   macroeconomics/index
 ------------------------
-file:`语义陷阱：经济学家的话术 <build/html/02_语义陷阱：经济学家的话术.html>`
- `语义陷阱：经济学家的话术 <o02_语义陷阱：经济学家的话术.html>`_
+
+ `语义陷阱：经济学家的话术 <02_语义陷阱：经济学家的话术.html>`_
 growth/index
 
 #   various/index
 
 Indices and tables
 ==================
-02_语义陷阱：经济学家的话术
+
 
 * :ref:`genindex`
 * :ref:`modindex`
