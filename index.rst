@@ -12,6 +12,7 @@
    :caption: Contents
 
   02_语义陷阱：经济学家的话术
+
    macroeconomics/index
    
    growth/index
@@ -20,7 +21,7 @@
 
 Indices and tables
 ==================
-
+02_语义陷阱：经济学家的话术
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
