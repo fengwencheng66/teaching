@@ -6,6 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import sphinx_rtd_theme
+# html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
+import recommonmark
+
 project = '文成的笔记'
 copyright = '2025, 文成不成文'
 author = '文成不成文'
@@ -23,5 +28,12 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = "sphinx_rtd_theme"
+# html_theme = 'alabaster'
 html_static_path = ['_static']
+
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+source_suffix = ['.rst', '.md']
