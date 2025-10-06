@@ -3,13 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-文成的笔记
-==========
+学习笔记
+==========================================
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+
 
    macroeconomics/index
    
@@ -17,5 +18,9 @@
 
    various/index
 
+Indices and tables
+==================
 
-
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
