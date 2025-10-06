@@ -17,11 +17,5 @@
 
    various/index
 
-分类目录
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
