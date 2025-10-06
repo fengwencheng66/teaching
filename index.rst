@@ -11,13 +11,13 @@
    :maxdepth: 2
    :caption: Contents
 
-  02_语义陷阱：经济学家的话术
+  语义陷阱：经济学家的话术
 
-   macroeconomics/index
+#   macroeconomics/index
    
-   growth/index
+#   growth/index
 
-   various/index
+#   various/index
 
 Indices and tables
 ==================
