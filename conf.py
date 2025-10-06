@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '文成的笔记'
-copyright = '2022, 文成不成文'
+copyright = '2023, 文成不成文'
 author = '文成不成文'
 
 # -- General configuration ---------------------------------------------------
