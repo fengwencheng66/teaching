@@ -12,9 +12,8 @@
    :caption: Contents
 
   
-02_语义陷阱：经济学家的话术
-------------------------
-` Sphinx 官网 <https://www.sphinx-doc.org/>`_
+
+` 语义陷阱：经济学家的话术 <build/html/02_语义陷阱：经济学家的话术.html>`_
 
 #   macroeconomics/index
 ------------------------
