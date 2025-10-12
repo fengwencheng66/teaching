@@ -11,9 +11,9 @@
 
 # import recommonmark
 
-project = '何地置老夫'
-copyright = '2021, 冯文成'
-author = '冯文成'
+project = 'Feng Chi'
+copyright = '2025, Feng Chi'
+author = 'Feng Chi'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
