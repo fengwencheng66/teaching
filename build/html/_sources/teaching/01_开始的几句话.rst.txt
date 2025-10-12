@@ -1,2 +1,6 @@
 this is a test page.
 -------------------------
+
+
+.. image:: figures/mus_z320.jpg
+   :属性1: spring 2026

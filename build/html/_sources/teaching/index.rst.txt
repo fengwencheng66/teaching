@@ -1,14 +1,13 @@
-宏观经济学笔记
+Teaching
 =================================
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: 目录
+   :caption: contents:
 
    
    
    
    01_开始的几句话.rst
 
-openning
