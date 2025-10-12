@@ -11,7 +11,7 @@
 
 # import recommonmark
 
-project = 'Feng Chi'
+project = 'Chi Feng'
 copyright = '2025, Feng Chi'
 author = 'Feng Chi'
 
